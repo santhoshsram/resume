@@ -86,3 +86,11 @@ _Bachelor of Technology in Information Technology [May 2004]_
 ### Asha for Education (AfE) - Silicon Valley Chapter
 #### Project & Grant Coordinator [2012 - 2014]
 Built and enabled a team of 3 that won the VMware Grants & Gigs grant, and drove a project funded by the grant to build a new web application to streamline operations for the AfE Support a Child program.
+
+## ACCOMPLISHTMENTS
+### Patents
+#### Framework for early congestion notification and recovery in a virtualized environment
+_[US 9621471](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=9621471.PN.&OS=PN/9621471&RS=PN/9621471) | Issued Apr 11, 2017_
+
+#### Auto-scaling Virtual Switches
+_[US 14/230186](http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.html&r=1&f=G&l=50&s1=%2220150277951%22.PGNR.&OS=DN/20150277951&RS=DN/20150277951) | Filed Mar 31, 2014_
