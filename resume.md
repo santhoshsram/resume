@@ -2,8 +2,16 @@
 _santhoshsram AT gmail DOT com ~ [github.com/santhoshsram](https://github.com/santhoshsram) ~ [linkedin.com/in/santhoshsram](https://linkedin.com/in/santhoshsram)_
 
 ## EXPERIENCE
+### Spotnana - Pune, MH, India
+#### Product Manager [March 2022 - Current]
+- Building a kick-ass travel platform.
+
+### Microsoft - India
+#### Principal PM Manager - Azure PaaS [July 2021 - Feb 2022]
+- Hmm...
+
 ### VMware Inc. - Pune, MH, India
-#### Product Management - Network Insight [May 2019 - Current]
+#### Product Management - Network Insight [May 2019 - June 2021]
 - Solving interesting problems with interesting people.
 
 ### AppOrbit Inc. - Pune, MH, India
